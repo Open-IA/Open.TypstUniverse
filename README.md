@@ -22,10 +22,6 @@ as LaTeX while being much easier to learn and use. Typst has:
 - Fast compile times thanks to incremental compilation
 - Friendly error messages in case something goes wrong
 
-This repository contains the Typst compiler and its CLI, which is everything you
-need to compile Typst documents locally. For the best writing experience,
-consider signing up to our collaborative online editor for free.
-
 # 🔥 Content of project
 
 | Name                                         | Description                                                                                                          | Core Loc | Test Loc |
